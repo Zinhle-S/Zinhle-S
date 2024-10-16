@@ -1,7 +1,7 @@
 ![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Zinhle Simelane</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" width="400" alt="coding" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg?t=st=1729099939~exp=1729103539~hmac=91b2f2b8b5521fc865bd2daba7f4d13008dda7242b3201f4c20e2d0acce435a6&w=826">
+<img align="center" width="600" alt="coding" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg?t=st=1729099939~exp=1729103539~hmac=91b2f2b8b5521fc865bd2daba7f4d13008dda7242b3201f4c20e2d0acce435a6&w=826">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinhle-s&label=Profile%20views&color=0e75b6&style=flat" alt="zinhle-s" /> </p>
 
